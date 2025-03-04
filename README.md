@@ -1,3 +1,4 @@
+<img width="476" alt="Exercise_App_UI" src="https://github.com/user-attachments/assets/3887057a-0246-4bb5-bada-f356654bcefa" />
 # exercise_app
 
 A new Flutter project.
